@@ -94,5 +94,5 @@ This dataset is **synthetic** and intended for learning, portfolio, and demo pur
   - Importing CSV files
   - Using visuals such as bar charts, scatter plots, and tables
 
-Add README
+
 
