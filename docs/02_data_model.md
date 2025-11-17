@@ -149,4 +149,4 @@ Efficiency_Score = (Replay_Rate × Completion_Rate) / Skip_Rate
 | Total Genres Analyzed | 15+ major genres |
 | Geographic Markets | 8+ countries/regions |
 | Time Period | Full year 2024 |
-| Total Records | [Insert actual count] |
+| Total Records | 500 |
