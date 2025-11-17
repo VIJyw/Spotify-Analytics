@@ -285,40 +285,12 @@ From any genre-level visual → drill to track-level details
 
 ---
 
-#### Walk-Through Structure (5 minutes):
 
-1. **Start with quadrant chart**: "Notice how Pop is popular but inefficient"
-2. **Move to cultural insights**: "This isn't random - geography matters"
-3. **End with recommendations**: "Here's how product teams could act on this"
 
 ---
 
-#### Anticipated Questions:
 
-**Q**: "How would you validate this hypothesis?"  
-**A**: "A/B test: Serve 10% of users engagement-optimized playlists, measure completion rates and subscription retention vs. control"
 
-**Q**: "What data would improve this analysis?"  
-**A**: "User demographics (age, subscriber tier), listening context (workout, commute), and survey data on satisfaction to link engagement metrics to retention outcomes"
-
-**Q**: "What's the business impact?"  
-**A**: "If platform-wide completion rates improve 5%, that could translate to 2-3% better retention, worth $XXM in reduced churn given average subscription value"
-
----
-
-### Differentiators for Product Analyst Role:
-
-✅ Demonstrates product thinking (not just visualization skills)  
-✅ Challenges assumptions with data  
-✅ Connects analysis to business strategy  
-✅ Shows cultural/behavioral insights beyond numbers  
-✅ Provides actionable recommendations, not just observations
-
----
-
-## 📸 Visual Examples
-
-*[Consider adding screenshots of your actual Power BI dashboard here]*
 
 ---
 
