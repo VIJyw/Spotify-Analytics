@@ -18,7 +18,7 @@ Streaming platforms optimize for total streams, but this metric alone doesn't ca
 
 ---
 
-## ❓ Key Business Questions
+##  Key Business Questions ?
 
 1. **Do popular genres actually drive engagement?**  
    Surface-level stream counts may mask poor completion and replay metrics
